@@ -19,7 +19,7 @@ I enjoy building real-world applications and continuously learning how things wo
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 ![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay108-dev&show_icons=true&theme=tokyonight)
 
@@ -38,6 +38,3 @@ I enjoy building real-world applications and continuously learning how things wo
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
 
-
-## 👀 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
