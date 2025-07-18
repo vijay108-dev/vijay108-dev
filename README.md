@@ -1,7 +1,10 @@
 # Hello everyone!
 
-I hope you all are doing exceptionally well.
-Coding, for me, is far more than just a technical skill—it’s an enduring passion that fuels my curiosity and ambition.
+I hope you all are doing well.
+
+For me, coding is not just a profession or a skill—it’s something that truly makes me happy.
+
+It feels like a part of who I am, and every line of code I write brings me closer to my dreams.
 
 Your support and encouragement mean the world to me. Thank you so much for visiting my profile!
 I wish you all the success and happiness you deserve. May all your dreams come true!
