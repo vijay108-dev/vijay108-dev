@@ -34,20 +34,6 @@ Let's connect and grow together!
 
 ---
 
-## GitHub Stats
-
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay108-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay108-dev&layout=compact&theme=tokyonight)
-
----
-
-## Get in Touch
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijay108.dev@gmail.com)
-
----
-
 ## Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
