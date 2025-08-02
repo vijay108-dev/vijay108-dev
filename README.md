@@ -19,6 +19,9 @@ I believe in learning by building. I'm continuously working on projects that hel
 
 Let's connect and grow together! 
 
+---
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -38,5 +41,4 @@ Let's connect and grow together!
 
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
 
