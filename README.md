@@ -1,4 +1,9 @@
-# Hello, I'm Vijay Singh!                                                                                                   ![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
+# Hello, I'm Vijay Singh! 
+
+<div align="right">
+  <strong>Vijay Singh</strong>
+  <img src="https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
 
 Coding isn't just a skill for me—it's a passion that fuels my every day. Every bug I fix, every feature I build, and every line of code I write brings me one step closer to becoming the engineer I aspire to be.
 
