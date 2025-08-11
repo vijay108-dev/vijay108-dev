@@ -1,5 +1,4 @@
-# Hello, I'm Vijay Singh! 
-<div align="right">
+# Hello, I'm Vijay Singh! <div align="right">
   <img src="https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
 
