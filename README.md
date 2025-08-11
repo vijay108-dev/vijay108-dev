@@ -2,25 +2,7 @@
 
 Coding isn't just a skill for me—it's a passion that fuels my every day. Every bug I fix, every feature I build, and every line of code I write brings me one step closer to becoming the engineer I aspire to be.
 
- **My Journey So Far:**
-- I built my foundation in classes 11th and 12th at **Matrix, Sikar**.
-- Scored **95 percentile in JEE Mains**.
--Currently pursuing engineering at **B K Birla Institute of Engineering & Technology, Pilani**.
-
- **What I'm Learning:**
--  Web Development 
--  DSA (Data Structures & Algorithms)
--  System Design & Core CS Concepts (OS, DBMS, CN, OOPs)
--  Exploring the world of **Generative AI**
-
-I believe in learning by building. I'm continuously working on projects that help me grow and challenge myself.
-
- Thanks a lot for visiting my GitHub! I truly appreciate your time and support. Wishing you endless success and happiness on your own journey. 🙌
-
-Let's connect and grow together! 
-
----
-
+Achieved **95 percentile in JEE Main**, currently pursuing my engineering degree at **BK Birla Institute of Engineering**.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
 
