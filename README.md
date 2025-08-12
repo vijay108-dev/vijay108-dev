@@ -2,7 +2,8 @@
 
 Coding isn't just a skill for me—it's a passion that fuels my every day. Every bug I fix, every feature I build, and every line of code I write brings me one step closer to becoming the engineer I aspire to be.
 
-Achieved **95 percentile in JEE Main**, currently pursuing my engineering degree at **BK Birla Institute of Engineering**.
+📈 Achieved **95 percentile in JEE Main**, scored **81% in Class 11** and **89% in Class 12**, and currently pursuing my engineering degree at **BK Birla Institute of Engineering**.
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=vijay108-dev&label=Profile%20views&color=0e75b6&style=flat)
 
